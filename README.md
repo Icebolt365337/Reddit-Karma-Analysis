@@ -43,19 +43,19 @@ from ~30,000 Reddit accounts:
 
 # Data Collection
 
-
+![Code Flow](images/image1.png)
 
 # Data Analysis
 
-
-
-
-
-
-
-
-
-
+![Code Flow](images/image2.png)
+![Code Flow](images/image3.png)
+![Code Flow](images/image4.png)
+![Code Flow](images/image5.png)
+![Code Flow](images/image6.png)
+![Code Flow](images/image7.png)
+![Code Flow](images/image8.png)
+![Code Flow](images/image9.png)
+![Code Flow](images/image10.png)
 
 ### Key Information - Summary
 
