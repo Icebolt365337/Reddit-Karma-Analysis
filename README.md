@@ -2,6 +2,7 @@
 
 Project by Uday Lingampalli
 
+(Read formalpaper.pdf for a more formal/detailed writeup)
 
 ### So, what is Reddit?
 
