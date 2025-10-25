@@ -1,45 +1,31 @@
-## Reddit Account Karma
+## Reddit Account Karma Analysis
 
-## Analysis
-
-```
 Project by Uday Lingampalli
-```
+
 
 ### So, what is Reddit?
 
-```
 Reddit is a social media website where users can post content
 and news. These posts are made to subreddits, communities
 of users centered around a specific topic, and users can
 comment on other posts and comments.
-```
 
 ### Comment/Post Scores
 
-```
 Reddit users can “upvote” or “downvote” posts and comments
 (submissions), giving them a score (# of upvotes minus # of
 downvotes), serving as a measure of others’ reaction to the
 content they posted.
-```
 
 ### Then, what is Karma?
 
-```
 Comment karma and Post karma: Sum of the scores of all a
 user’s comments/posts, respectively
 ● (Well, not completely, the actual formula is more
 complicated than that and unknown)
 Total karma - Sum of a user’s comment and post karma
-```
 
-# What, then, can
-
-# influence a Reddit
-
-# user’s karma?
-
+# What, then, can influence a Reddit user’s karma?
 
 ### Analysis introduction
 
@@ -86,11 +72,9 @@ from ~30,000 Reddit accounts:
 
 ### Goal
 
-```
 Be able to predict a user’s karma without knowing their
 comment, post, or total karma, or any features I created from
 this information.
-```
 
 ### A quick note on the R^2 Coefficient
 
@@ -168,10 +152,8 @@ this information.
 
 ### Missing features?
 
-```
 The model yielded a decent R^2 coefficient, but it could’ve been
 better. What could’ve improved it?
-```
 - Comprehensive analysis on all comments, instead of just top 10
     - Total # of comments
     - Consider time of day each submission was posted
@@ -192,11 +174,9 @@ better. What could’ve improved it?
 
 ### Future Work
 
-```
 In addition to including missing features (assuming
 functionality to retrieve that information is implemented),
 how could this be improved?
-```
 - My analysis shows baseline of most features and how
     they relate to each other
 - k-NN is good model for prediction
@@ -204,8 +184,3 @@ how could this be improved?
     each other in higher dimensions
 - Potentially engineer new features using more complex
     relationships between features to improve model
-
-
-# Thank you for listening!
-
-
